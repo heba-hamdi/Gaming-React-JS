@@ -1,0 +1,45 @@
+
+.navbar{
+    background-color: #272B30 !important;
+}
+
+.navbar-brand>img{
+    width:70px;
+}
+
+.navbar-brand>span{
+    font-family: 'Xanh Mono', monospace;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.nav-link{
+    font-family: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans","Liberation Sans",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem !important;
+    
+}
+
+.btn-outline-info{
+    border-color: #49ACDD !important;
+    color: #49ACDD !important;
+    background-color: transparent !important;
+}
+
+.login{
+    margin-top: .5rem;
+}
+
+.lin a{
+    text-decoration: none !important;
+    /* color: #49ACDD !important; */
+}
+
+.dropdown-item.active{
+        color: #000 !important;
+        text-decoration: none;
+        background-color: #fff !important;
+}
+
+.dropdown-item:hover{
+    background-color:rgba(192, 187, 187, 0.325) !important;
+    }

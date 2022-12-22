@@ -1,0 +1,32 @@
+.home{
+    background-color: #272B30 !important;
+    height: 100vh;
+    width: 100%;
+  
+}
+
+section{
+    color: #fff;
+    background: url('../../../public/images/jumbetron-bg.png');
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+   
+}
+
+.primary{
+    color: #49ACDD !important;
+}
+
+.recommend-title{
+    color:#A7AAAA !important;
+   
+}
+
+.fa-robot{
+    /* vertical-align:bottom !important; */
+    /* padding-bottom: 0%; */
+    line-height:35px !important;
+}
+

@@ -1,0 +1,30 @@
+.card {
+    border: 0 !important;
+}
+
+.card-body {
+    background-color: #32383E !important;
+
+
+
+}
+
+h5 {
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 24px !important;
+    color: #A7AAAA !important;
+    
+}
+
+.card-body a.btn-success{
+    background-color: #49ACDD !important;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 12px !important;
+    color: #fff !important;
+    border:0 !important;
+    padding: .5rem;
+    font-weight: 700;
+    text-decoration: none !important;
+}
+
+
